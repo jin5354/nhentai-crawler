@@ -1,0 +1,19 @@
+{
+  "name": "nhentai-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "cheerio": "^0.18.0",
+    "eventproxy": "^0.3.2",
+    "express": "^4.11.2",
+    "mongodb": "^1.4.30",
+    "superagent": "^0.21.0"
+  }
+}
